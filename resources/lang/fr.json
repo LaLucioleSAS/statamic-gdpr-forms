@@ -1,0 +1,9 @@
+{
+    "Mark as done": "Marquer comme traité",
+    "Item marked as done.|:count items marked as done.": "L'élément a bien été marqué comme traité.|:count éléments marqués comme traités.",
+    "Mark as todo": "Marquer comme non traité",
+    "Item marked as todo.|:count items marked as todo.": "L'élément a bien été marqué comme à traiter.|:count éléments marqués comme à traiter.",
+    "Identify this form as a GDPR data form.": "Identifier ce formulaire comme traitant des données RGPD.",
+    "GDPR": "RGPD",
+    "GDPR Form": "Formulaire concerné par le RGPD"
+}
