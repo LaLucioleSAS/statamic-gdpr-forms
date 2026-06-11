@@ -1,6 +1,18 @@
 {
     "name": "laluciole/gdpr-forms",
-    "version": "1.0.0",
+    "description": "GDPR Forms Statamic addon",
+    "homepage": "https://www.laluciole.dev/",
+    "type": "statamic-addon",
+    "authors": [
+        {
+            "name": "La Luciole SAS",
+            "email": "support@laluciole.dev",
+            "homepage": "https://www.laluciole.dev/"
+        }
+    ],
+    "support": {
+        "email": "support@laluciole.dev"
+    },
     "autoload": {
         "psr-4": {
             "Laluciole\\GdprForms\\": "src"
