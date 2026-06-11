@@ -6,7 +6,6 @@ export default defineConfig({
     plugins: [
         laravel({
             input: [
-                'resources/js/cp.js',
                 'resources/js/request.js',
             ],
             publicDirectory: 'resources/dist',
