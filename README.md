@@ -1,23 +1,24 @@
-# Extended Form
+[[Statamic 6.0+]](https://statamic.com)
 
-> Extended Form is a Statamic addon that does something pretty neat.
+# ElasticSearch driver for Statamic
 
-## Features
+> This addon add's a GDPR Management interface for Statamic administration.
 
-This addon does:
+### Features
+* Export as CSV or delete user data based on email adress.
+* Identify forms as a GDPR data form.
 
-- This
-- And this
-- And even this
+### Compatibility
+Statamic versions: [Statamic 6.0+]
 
-## How to Install
+## Installation and Setup
 
-You can search for this addon in the `Tools > Addons` section of the Statamic control panel and click **install**, or run the following command from your project root:
-
+### How to Install
+You can install this addon via Composer:
 ``` bash
 composer require laluciole/gdpr-forms
 ```
 
-## How to Use
+## Contributions
 
-Here's where you can explain how to use this wonderful addon.
+If you have any ideas on how to improve this add-on, please create an issue on Github and we'll try to analyze all suggestions as soon as possible.
